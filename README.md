@@ -4,9 +4,7 @@ Final Version of DRoT5.
 
 In this repository, you can find the opportunity model of the DR that is risk-taker.
 
-If you need the code, please contact me.
-
-My email:mv.ghavidel@ieee.org
+If you have any question, here is my contact info: mv.ghavidel@ieee.org
 
 The corresponding paper has been presented in PowerTech2019 and you need to cite this paper if you used this code as follows:
 
