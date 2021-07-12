@@ -1,6 +1,6 @@
 # DRoT5-UNiTED
 
-Preliminary Version of DRoT5.
+Final Version of DRoT5.
 
 In this repository, you can find the opportunity model of the DR that is risk-taker.
 
